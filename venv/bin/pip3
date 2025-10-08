@@ -1,4 +1,4 @@
-#!/home/kwc7162/integrated_server/venv/bin/python3
+#!/home/kwangyeon/Main_Server/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
