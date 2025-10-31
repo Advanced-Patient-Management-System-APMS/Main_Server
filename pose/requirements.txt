@@ -1,0 +1,10 @@
+# Bed Fall Detection System - Required Packages
+
+opencv-python
+numpy < 2.0.0
+
+#YOLO model
+ultralytics
+
+# YouTube Video Download (for test data)
+pytubefix
